@@ -1,0 +1,33 @@
+"a" = (/turf/template_noop,/area/space)
+"f" = (/obj/machinery/vending/medical/shipside,/turf/open/floor/plating/plating_catwalk,/area/shuttle/minidropship)
+"i" = (/obj/machinery/door/poddoor/shutters/transit/nonsmoothing{dir = 1},/turf/open/floor/mainship/mono,/area/shuttle/minidropship)
+"k" = (/obj/docking_port/mobile/marine_dropship/minidropship,/obj/structure/bed/chair/dropship/pilot{dir = 1},/turf/open/floor/plating/plating_catwalk,/area/shuttle/minidropship)
+"n" = (/obj/machinery/telecomms/relay/preset/telecomms/onboard,/obj/structure/dropship_piece/tadpole/rearright{dir = 1},/turf/closed/shuttle/dropship_white/engine_corner,/area/shuttle/minidropship)
+"p" = (/obj/machinery/optable,/obj/item/tank/anesthetic,/turf/open/floor/mainship/mono,/area/shuttle/minidropship)
+"v" = (/turf/open/floor/plating/plating_catwalk,/area/shuttle/minidropship)
+"x" = (/obj/machinery/vending/MarineMed,/turf/open/floor/plating/plating_catwalk,/area/shuttle/minidropship)
+"z" = (/obj/structure/dropship_piece/tadpole/tadpole_nose{dir = 1; pixel_y = 32},/obj/structure/dropship_piece/singlewindow/tadpole{dir = 1},/turf/open/floor/mainship/mono,/area/shuttle/minidropship)
+"A" = (/obj/structure/dropship_piece/tadpole/cockpit/left{dir = 1},/obj/structure/dropship_piece/tadpole/tadpole_nose/left{dir = 1; pixel_y = 32},/obj/structure/dropship_piece/tadpole/engine{dir = 1; pixel_x = -23; pixel_y = -14},/turf/template_noop,/area/shuttle/minidropship)
+"B" = (/obj/machinery/computer/camera_advanced/shuttle_docker/minidropship,/obj/machinery/camera/autoname/mainship,/turf/open/floor/mainship/mono,/area/shuttle/minidropship)
+"G" = (/obj/machinery/door/airlock/multi_tile/mainship/dropshiprear/ds2,/obj/machinery/door/poddoor/shutters/transit/nonsmoothing{dir = 1},/turf/open/floor/mainship/mono,/area/shuttle/minidropship)
+"H" = (/obj/structure/dropship_piece/tadpole/engine{dir = 1; pixel_x = 23; pixel_y = -14},/turf/closed/shuttle/dropship2/wallthree,/area/shuttle/minidropship)
+"L" = (/obj/machinery/light{dir = 8},/turf/open/floor/mainship/mono,/area/shuttle/minidropship)
+"O" = (/turf/closed/shuttle/dropship2/wallthree,/area/shuttle/minidropship)
+"P" = (/turf/closed/shuttle/dropship2/walltwo,/area/shuttle/minidropship)
+"S" = (/obj/structure/closet/walllocker/hydrant/extinguisher{dir = 4; pixel_x = -47},/turf/open/floor/plating/plating_catwalk,/area/shuttle/minidropship)
+"U" = (/obj/structure/dropship_piece/tadpole/engine{dir = 1; pixel_x = -23; pixel_y = -14},/turf/closed/shuttle/dropship2/walltwo,/area/shuttle/minidropship)
+"W" = (/obj/structure/dropship_piece/tadpole/cockpit/right{dir = 1},/obj/structure/dropship_piece/tadpole/tadpole_nose/right{dir = 1; pixel_y = 32},/obj/structure/dropship_piece/tadpole/engine{dir = 1; pixel_x = 23; pixel_y = -14},/turf/template_noop,/area/shuttle/minidropship)
+"X" = (/obj/structure/dropship_piece/tadpole/rearleft{dir = 1},/turf/template_noop,/area/shuttle/minidropship)
+"Y" = (/obj/machinery/light{dir = 4},/turf/open/floor/mainship/mono,/area/shuttle/minidropship)
+
+(1,1,1) = {"
+aaaaaaa
+aaaaaaa
+aAzzzWa
+aPfBxOa
+aPLkYOa
+aPSpvOa
+aULvYHa
+aXGiina
+aaaaaaa
+"}

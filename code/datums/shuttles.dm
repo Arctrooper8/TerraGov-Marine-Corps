@@ -144,6 +144,11 @@
 	description = "A Tadpole model for hauling, engineering and general maintenance. Patented by Nakamura Engineering, and is a rather reliable way to transport goods."
 	display_name = "Tadpole NK-Haul Model"
 
+/datum/map_template/shuttle/minidropship/medical
+	suffix = "_medical"
+	description = "Medic gaming"
+	display_name = "Tadpole Healy wheely Model"
+
 /datum/map_template/shuttle/escape_pod
 	shuttle_id = SHUTTLE_ESCAPE_POD
 	name = "Escape Pod"
