@@ -271,3 +271,6 @@
   - bugfix: fixed some campaign autobalance logic
   ivanmixo:
   - bugfix: Xenos abilities shouldn't go through missing corners anymore
+2024-02-17:
+  Xander3359:
+  - bugfix: Fixes a bug allowing you to have tac sensor active permanently
